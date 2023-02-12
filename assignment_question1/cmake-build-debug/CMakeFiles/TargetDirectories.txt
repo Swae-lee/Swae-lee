@@ -1,0 +1,3 @@
+C:/Users/HP/CLionProjects/C_CODING_ASSIGNMENT_1/assignment_question1/cmake-build-debug/CMakeFiles/untitled2.dir
+C:/Users/HP/CLionProjects/C_CODING_ASSIGNMENT_1/assignment_question1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/CLionProjects/C_CODING_ASSIGNMENT_1/assignment_question1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
